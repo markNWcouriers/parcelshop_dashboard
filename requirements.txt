@@ -3,4 +3,3 @@ pandas
 plotly
 Pillow
 openpyxl
-difflib
